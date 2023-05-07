@@ -1,0 +1,25 @@
+﻿  PhysicsEngine.cpp
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(14,12): error C2011: "Vec2": "class" Typneudefinition
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(8): message : Siehe Deklaration von "Vec2"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(25,10): error C2011: "Box": "class" Typneudefinition
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(9): message : Siehe Deklaration von "Box"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(52,14): error C2011: "HitBox": "class" Typneudefinition
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(10): message : Siehe Deklaration von "HitBox"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(56,17): error C2011: "RigidBody": "class" Typneudefinition
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(11): message : Siehe Deklaration von "RigidBody"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(60,14): error C2011: "Camera": "class" Typneudefinition
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(12): message : Siehe Deklaration von "Camera"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(77,12): error C2079: "camera" verwendet undefiniertes class "Camera"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(77,35): error C2027: Verwendung des undefinierten Typs "Vec2"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(8): message : Siehe Deklaration von "Vec2"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(77,51): error C2027: Verwendung des undefinierten Typs "Vec2"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(8): message : Siehe Deklaration von "Vec2"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(77,30): error C2027: Verwendung des undefinierten Typs "Box"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(9): message : Siehe Deklaration von "Box"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(77,69): error C2440: "Initialisierung": "initializer list" kann nicht in "int" konvertiert werden
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(77,18): message : Der Initialisierer enthält zu viele Elemente.
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(78,9): error C2079: "box" verwendet undefiniertes class "Box"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(78,17): error C2027: Verwendung des undefinierten Typs "Vec2"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(8): message : Siehe Deklaration von "Vec2"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(78,33): error C2027: Verwendung des undefinierten Typs "Vec2"
+D:\dev\PhysicsEngine\PhysicsEngine.cpp(8): message : Siehe Deklaration von "Vec2"
